@@ -2,7 +2,10 @@ name: evi-pro-lite
 channels:
   - defaults
 dependencies:
-  - matplotlib=3.1.1
-  - python=3.6
-  - pandas=0.24
-  - numpy=1.16
+  - matplotlib
+  - python
+  - pandas
+  - numpy
+  - requests
+  - certifi
+  - requests
