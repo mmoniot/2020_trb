@@ -1,0 +1,7 @@
+name: evi-pro-lite
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pandas=0.24
+  - numpy=1.16
